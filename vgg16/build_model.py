@@ -6,7 +6,7 @@ from tensorflow.python.keras.layers.core import Dropout, Flatten
 
 def build_model(input_shape=(224, 224, 3), output_shape=1000):
     """[summary]
-    build VGG-16 model structure
+    build VGG-16 model structure (D version)
     1. all padding size: 1
     2. all filter size: 3 x 3
     3. all activation function: relu
