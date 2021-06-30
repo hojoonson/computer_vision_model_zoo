@@ -15,8 +15,8 @@ this is our repository
     </tr>
     <tr>
         <td>VGG 16</td><!-- Model Name !-->
-        <td>Paper</td><!-- Paper !-->
-        <td>ImageNet</td><!-- Dataset Link !-->
+        <td>Very Deep Convolutional Networks for Large-Scale Image Recognition</td><!-- Paper !-->
+        <td>ILSVRC-2012</td><!-- Dataset Link !-->
         <td>Top 1</td><!-- Top 1 Performance !-->
         <td>Top 5</td><!-- Top 5 Performance !-->
     </tr>
