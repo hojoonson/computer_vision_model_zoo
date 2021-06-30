@@ -12,13 +12,15 @@ This is several computer vision model zoo repository
         <th>Dataset</th>
         <th>Top 1</th>
         <th>Top 5</th>
+        <th>Best Model</th>
     </tr>
     <tr>
         <td>VGG 16</td><!-- Model Name !-->
         <td><a href='https://arxiv.org/abs/1409.1556'>Link</a></td><!-- Paper !-->
-        <td><a href='https://arxiv.org/abs/1409.1556'>ILSVRC-2012</a></td><!-- Dataset Link !-->
+        <td><a href='https://image-net.org/challenges/LSVRC/2012/'>ILSVRC-2012</a></td><!-- Dataset Link !-->
         <td>Top 1</td><!-- Top 1 Performance !-->
         <td>Top 5</td><!-- Top 5 Performance !-->
+        <td><a href=''>Link</a></td><!-- Best Model Link !-->
     </tr>
 </table>
 
