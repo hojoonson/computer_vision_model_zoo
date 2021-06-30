@@ -15,8 +15,8 @@ This is several computer vision model zoo repository
     </tr>
     <tr>
         <td>VGG 16</td><!-- Model Name !-->
-        <td>Very Deep Convolutional Networks for Large-Scale Image Recognition</td><!-- Paper !-->
-        <td>ILSVRC-2012</td><!-- Dataset Link !-->
+        <td><a href='https://arxiv.org/abs/1409.1556'>Link</a></td><!-- Paper !-->
+        <td><a href='https://arxiv.org/abs/1409.1556'>ILSVRC-2012</a></td><!-- Dataset Link !-->
         <td>Top 1</td><!-- Top 1 Performance !-->
         <td>Top 5</td><!-- Top 5 Performance !-->
     </tr>
@@ -27,7 +27,7 @@ This is several computer vision model zoo repository
 ## 2. Contributors
 ### Hojoon Son
 E-mail: joonyyyy@gmail.com<br>
-Website: http://hojoonson.github.io
+Website: https://hojoonson.github.io/
 ### Junhan Kim
-E-mail: <br>
-Website:
+E-mail: kjune1236@gmail.com<br>
+Website: https://github.com/junhan-kim
