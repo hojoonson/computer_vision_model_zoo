@@ -1,10 +1,10 @@
 # computer_vision_model_zoo
-computer_vision_model_zoo.
-this is our repository
+This is several computer vision model zoo repository
 
----
+<br>
+
 ## 1. Models
-### Classification Model Zoo
+### [Classification Model Zoo]
 <table>
     <tr>
         <th>Model Name</th>
@@ -21,3 +21,13 @@ this is our repository
         <td>Top 5</td><!-- Top 5 Performance !-->
     </tr>
 </table>
+
+<br>
+
+## 2. Contributors
+### Hojoon Son
+E-mail: joonyyyy@gmail.com<br>
+Website: http://hojoonson.github.io
+### Junhan Kim
+E-mail: <br>
+Website:
